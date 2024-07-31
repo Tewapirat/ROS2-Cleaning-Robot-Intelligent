@@ -1,2 +1,6 @@
-# ROS2-Cleaning-Robot-Intelligent
-This project is impoved from solar cell cleaning robot
+# Intelligent Cleaning Robot
+This project is impoved from solar cell cleaning robot and explore new technology to optimize the systems to autonomus.
+
+### Nodes
+-Publisher
+-Subscriber
